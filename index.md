@@ -4,7 +4,7 @@
 
 ### OA4801: Spreadsheet Modeling for Military Operations Research
 
-[Linear Programming: Medical Evacution System](/sample_page)
+[Linear Programming: Medical Evacution System]
 <img src="images/LP spreadsheets pjt 1.png?raw=true"/>
 
 ---
