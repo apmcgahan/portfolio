@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### OA4801: Spreadsheet Modeling for Military Operations Research
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Linear Programming: Medical Evacution System](/sample_page)
+<img src="images/LP spreadsheets pjt 1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
