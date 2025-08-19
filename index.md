@@ -2,32 +2,68 @@
 
 ---
 
-### OA4801: Spreadsheet Modeling for Military Operations Research
+### Thesis
 
-[Linear Programming: Medical Evacution System]
-<img src="images/LP spreadsheets pjt 1.png?raw=true"/>
+<a href="https://hdl.handle.net/10945/73180">SURVIVAL ANALYSIS OF ARMY OFFICERS' CAREER STAY IN RELATION TO INFLUENCE OF FAMILY FACTORS</a> <br>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Thesis Advisors: 
+<a href="http://faculty.nps.edu/ryoshida/">Ruriko Yoshida, <a href="https://nps.edu/faculty-profiles/-/cv/robert.froberg"> Robert Froberg</a> <br>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Second Reader: 
+<a href="">Candice Farney</a> <br>
 
 ---
 
-### Category Name 2
+### Professional Presentations
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+June 13, 2025 - 93rd MORS Symposium - Scaling Metadata Creation: ​Metadata Pre-processing with LLMs and other MTTs​
+
+
+
+
+### Example Coursework
+
+[Advanced Data Analysis (OA4106)]
+
+<a target='_blank' href="./Files/lab_3_wk9_Austin McGahan.pdf">Data analysis<a/> to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements.
 
 ---
 
+[Data Analysis (OA3103)]
 
+<a target='_blank' href="./Files/DAP1.pdf">Bike Rental Data Analysis Project<a/>- Model resulted in the lowest mean error amongst all models submitted in the Spring 2023 course offering.
+
+---
+  
+[Simulation Modeling (OA3302)]
+  
+Final project investigated refueling wait times of two squadrons over 100 training days (Simio based)
+<img src= 'images/refueling_final_project.png?raw=true'/>
+ 
+---
+
+[Simulation Analysis (OA4333)]
+
+
+---
+
+[Computational Methods 2 (OA3801)]
+
+<a href="./Files/HAST-E Exec Summary.pdf">Capstone Project<a/>
+<img src="images/HAST-E.png?raw=true"/>
+
+---
+
+#[Computational Methods 1 (OA2801)](OA2801.md)
+#<img src="images/humanitarianlogistics1.png?raw=true"/>
+
+---
+
+[Case Studies in Applied Defense Analytics (OA 4820)]
+
+---
+
+### Personal Projects
 
 
 ---
