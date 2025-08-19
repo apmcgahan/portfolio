@@ -1,13 +1,20 @@
 title: Austin McGahan # your name (or website title) here
-logo: "/images/MCGAHAN AUSTIN.jpg?raw=true" # your photo (or logo) here
+logo: images/profile_photo.jpg?raw=True # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome to my GitHub portfolio of projects I've worked on as an Operations Research Analyst! Here, you'll find a sample of my projects and contributions, including my earliest work as a student analyst. 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/austin-mcgahan-22745455/">View My LinkedIn Profile</a> 
+  Operations Research Analyst <br>
+  <a href="https://nps.edu/web/or/operations-analysis-360">M.S. Operations Research</a> <br>
+  (June 2024) <br>
+  Naval Postgraduate School, Monterey, CA
+
+  <a href="https://emse.mst.edu/academicprograms/engineeringmanagement/graduate/">M.S. Engineering Management</a> <br>
+  (December 2017) <br>
+  Missouri University of Science and Technology, Rolla, MO
+
+  <a href="https://www.westpoint.edu/academics/majors-and-minors/engineering-management-major">B.S. Engineering Management</a> <br>
+  (May 2013) <br>
+  United States Military Academy, West Point, NY
+
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  
+theme: jekyll-theme-minimal
+google_analytics: G-FB6ZCZ0R71
