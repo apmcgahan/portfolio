@@ -2,13 +2,13 @@ title: Austin McGahan # your name (or website title) here
 logo: images/profile_photo.jpg?raw=True # your photo (or logo) here
 description: >
   **Operations Research Analyst**  
-  [M.S. Operations Research](https://nps.edu/web/or/operations-analysis-360) 
+  >a href="https://nps.edu/web/or/operations-analysis-360">M.S. Operations Research</a> <br> 
   Naval Postgraduate School(June 2024) 
 
-  [M.S. Engineering Management](https://emse.mst.edu/academicprograms/engineeringmanagement/graduate/)  
+  >a href="https://emse.mst.edu/academicprograms/engineeringmanagement/graduate/">M.S. Engineering Management</a> <br>" 
   Missouri University of S&T (December 2017)  
 
-  [B.S. Engineering Management](https://www.westpoint.edu/academics/majors-and-minors/engineering-management-major)  
+  a> href="https://www.westpoint.edu/academics/majors-and-minors/engineering-management-major">B.S. Engineering Management</a> <br> 
   United States Military Academy(May 2013)
 
   
